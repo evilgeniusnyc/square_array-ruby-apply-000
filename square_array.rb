@@ -1,5 +1,4 @@
 def square_array(array)
-  # your code here
+  numbers = [1,2,3]
+  numbers.each{X ** 2}
 end
-numbers = [1,2,3]
-numbers.each{X ** 2}
